@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "id": 10,
+      "groups_name_ar": "بين سبورت",
+      "groups_name_en": "beIN Sports",
+      "groups_logo": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
+      "groups_sorting_index": 1
+    }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "id_groups": 10,
+      "name_ar": "بين سبورت 1",
+      "logo": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
+      "link": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8"
+    },
+    {
+      "id": 2,
+      "id_groups": 10,
+      "name_ar": "بين سبورت 2",
+      "logo": "http://dynato.xyz:80/images/ad56137382192cee1cb6bf09a35a5d48.png",
+      "link": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_1080.m3u8"
+    }
+  ]
+}
