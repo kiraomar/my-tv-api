@@ -1,0 +1,12 @@
+{
+  "name": "my-tv-api",
+  "version": "1.0.0",
+  "description": "My simple TV API",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port $PORT"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
