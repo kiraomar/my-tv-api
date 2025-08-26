@@ -1,0 +1,117 @@
+{
+  "appinfo": {
+    "value": 1,
+    "AppID": "1322729",
+    "AppName": "Omar Sport",
+    "IconUrl": "https://s5files.mobeasy.com/static/u/1723014/icon-1723014-871794.png",
+    "UserID": "1723014",
+    "packageName": "kira.sport",
+    "primaryColor": "#000000",
+    "primaryDarkColor": "#000000",
+    "accentColor": "#33AFFF",
+    "withFacebookAd": "0",
+    "bannerFbId": null,
+    "fullScreenFbId": null,
+    "admobAppID": null,
+    "BanarAdID": null,
+    "fullScreenAdID": null,
+    "withAdmob": "0",
+    "one_signal_id": null,
+    "startAppId": null,
+    "rewardAdmobId": null,
+    "font": "Cairo",
+    "lastUpdate": null
+  },
+  "pages": [
+    {
+      "value": 1,
+      "ID": "6836910",
+      "UserID": "1723014",
+      "AppID": "1322729",
+      "pageType": "FreePage",
+      "pageTitle": "Omar Sport",
+      "showBannerAd": "0",
+      "showFullScreenAd": "0",
+      "ishomepage": "1",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": "https://s5files.mobeasy.com/static/u/1723014/file-1723014-901142.jpg",
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": false,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://j1files.mobeasy.com/page/6836910/2.json"
+    },
+    {
+      "value": 1,
+      "ID": "6836911",
+      "UserID": "1723014",
+      "AppID": "1322729",
+      "pageType": "FreePage",
+      "pageTitle": "mytv",
+      "showBannerAd": "0",
+      "showFullScreenAd": "0",
+      "ishomepage": "0",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": "https://s5files.mobeasy.com/static/u/1723014/file-1723014-581436.jpg",
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": false,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://j1files.mobeasy.com/page/6836911/4.json"
+    },
+    {
+      "value": 1,
+      "ID": "6837005",
+      "UserID": "1723014",
+      "AppID": "1322729",
+      "pageType": "FreePage",
+      "pageTitle": "supertv",
+      "showBannerAd": "0",
+      "showFullScreenAd": "0",
+      "ishomepage": "0",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": "https://s5files.mobeasy.com/static/u/1723014/file-1723014-581436.jpg",
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": false,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://j1files.mobeasy.com/page/6837005/3.json"
+    }
+  ]
+}
