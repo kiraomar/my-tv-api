@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=640x360
-http://bdd00.4rouwanda-shop.store/live/31009988005/index.m3u8
+http://hydratv.co/live/hm365447/ak6436774/415747.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=700000,RESOLUTION=1280x720
-http://het106a.4rouwanda-shop.store/live/918454578001/index.m3u8
+http://hydratv.co/live/hm365447/ak6436774/415756.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=1920x1080
-http://het102a.4rouwanda-shop.store/live/918454578001/index.m3u8
+http://hydratv.co/live/hm365447/ak6436774/415765.m3u8
